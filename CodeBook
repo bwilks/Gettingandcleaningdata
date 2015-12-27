@@ -8,7 +8,7 @@ Activity
   LAYING,SITTING,STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
   The subjects were measured on six separate activities.
 
-The remaining fields (listed immediatly below) are averages of the data for each Subject by Activity (see below for original explaination of data).
+The remaining fields (listed immediately below) are averages of the variables for each Subject by Activity (see below for original explaination of data).
   tBodyAcc-mean()-X
   tBodyAcc-mean()-Y
   tBodyAcc-mean()-Z
