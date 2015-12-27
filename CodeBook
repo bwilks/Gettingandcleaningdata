@@ -2,11 +2,11 @@ DATA DICTIONARY
 
 Subject 
   1-30
-  Identifies the Subject who completed the study there were 30 subjects.
+  Identifier of the Subject who completed the study. There were 30 subjects.
 
 Activity
   LAYING,SITTING,STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
-  The subjects were measured on six separate activities.
+  The is the activity name that the subjects were measured on six separate activities.
 
 The remaining fields (listed immediately below) are averages of the variables for each Subject by Activity (see below for original explaination of data).
   tBodyAcc-mean()-X
