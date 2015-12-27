@@ -1,6 +1,6 @@
 # Gettingandcleaningdata
 
-When The run_analysis.R file is run it will create a the GACData_results.txt file. 
+When The run_analysis.R file is run it will create a the GACData_results.txt file. The GACData_results.txt contains a tiny data set that show varibles for each subject for each activity.
 
 It takes raw data from a study (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) that used smart phones to measure movement of subject doing various activities.
 
